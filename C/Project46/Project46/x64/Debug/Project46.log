@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project46\Project46\FileName.c(12,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\emirh\Desktop\Project46\Project46\FileName.c(12,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\emirh\Desktop\Project46\Project46\FileName.c(22,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project46\Project46\FileName.c(22,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+  Project46.vcxproj -> C:\Users\emirh\Desktop\Project46\x64\Debug\Project46.exe

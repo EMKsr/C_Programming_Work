@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project52\Project52\FileName.c(19,32): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emirh\Desktop\Project52\Project52\FileName.c(20,19): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emirh\Desktop\Project52\Project52\FileName.c(21,19): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Project52.vcxproj -> C:\Users\emirh\Desktop\Project52\x64\Debug\Project52.exe

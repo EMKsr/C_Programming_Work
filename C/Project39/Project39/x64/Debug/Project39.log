@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project39\Project39\FileName.c(9,2): warning C4013: 'strcpy' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\emirh\Desktop\Project39\Project39\FileName.c(12,2): warning C4013: 'strncpy' tanımsız; int döndüren extern olduğu varsayılıyor
+  Project39.vcxproj -> C:\Users\emirh\Desktop\Project39\x64\Debug\Project39.exe

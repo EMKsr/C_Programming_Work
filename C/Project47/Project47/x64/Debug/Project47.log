@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(9,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(9,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(12,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(12,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(15,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(15,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(18,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project47\Project47\FileName.c(18,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+  Project47.vcxproj -> C:\Users\emirh\Desktop\Project47\x64\Debug\Project47.exe

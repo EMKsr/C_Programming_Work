@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project32\Project32\FileName.c(14,10): warning C4013: 'pow' tanımsız; int döndüren extern olduğu varsayılıyor
+  Project32.vcxproj -> C:\Users\emirh\Desktop\Project32\x64\Debug\Project32.exe

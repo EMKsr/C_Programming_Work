@@ -1,0 +1,11 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(18,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(18,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(19,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(19,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(20,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'float *'
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(20,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'float *') çakışıyor
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(21,9): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(21,9): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\emirh\Desktop\Project45\Project45\FileName.c(8,8): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Project45.vcxproj -> C:\Users\emirh\Desktop\Project45\x64\Debug\Project45.exe

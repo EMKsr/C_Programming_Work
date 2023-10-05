@@ -1,0 +1,9 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): warning C4477: 'scanf_s' : '%s' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): message : yer tutucular ve bunların parametreleri 4 değişen sayıda bağımsız değişken bekliyor, ancak 2 tane sağlandı
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): message : eksik 3 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(9,10): message : bu bağımsız değişken bir dönüştürme tanımlayıcı tarafından kullanılıyor
+C:\Users\emirh\Desktop\Project40\Project40\FileName.c(11,2): warning C4013: 'strcat' tanımsız; int döndüren extern olduğu varsayılıyor
+  Project40.vcxproj -> C:\Users\emirh\Desktop\Project40\x64\Debug\Project40.exe

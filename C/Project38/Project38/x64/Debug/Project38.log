@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project38\Project38\FileName.c(8,2): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\emirh\Desktop\Project38\Project38\FileName.c(10,31): warning C4013: 'strlen' tanımsız; int döndüren extern olduğu varsayılıyor
+  Project38.vcxproj -> C:\Users\emirh\Desktop\Project38\x64\Debug\Project38.exe

@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project17\Project17\FileName.c(20,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\emirh\Desktop\Project17\Project17\FileName.c(20,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+  Project17.vcxproj -> C:\Users\emirh\Desktop\Project17\x64\Debug\Project17.exe

@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project7\Project7\FileName.c(16,17): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\emirh\Desktop\Project7\Project7\FileName.c(29,67): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Project7.vcxproj -> C:\Users\emirh\Desktop\Project7\x64\Debug\Project7.exe

@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project54\Project54\FileName.c(8,18): warning C4047: 'işlev': 'FILE **', yöneltme düzeyi sayısı bakımından 'char [34]' ile aynı değil
+C:\Users\emirh\Desktop\Project54\Project54\FileName.c(8,18): warning C4024: 'fopen_s': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\emirh\Desktop\Project54\Project54\FileName.c(8,10): error C2198: 'fopen_s': bağımsız değişken sayısı çağrı için az
+C:\Users\emirh\Desktop\Project54\Project54\FileName.c(8,8): warning C4047: '=': 'FILE *', yöneltme düzeyi sayısı bakımından 'errno_t' ile aynı değil

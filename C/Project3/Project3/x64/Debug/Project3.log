@@ -1,0 +1,22 @@
+﻿  FileName.c
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(8,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(8,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(8,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(8,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(11,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(11,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(11,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(11,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(14,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(14,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(14,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(14,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(17,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(17,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(17,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(17,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(20,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(20,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(20,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\emirh\Desktop\Project3\Project3\FileName.c(20,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  Project3.vcxproj -> C:\Users\emirh\Desktop\Project3\x64\Debug\Project3.exe
